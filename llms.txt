@@ -1,0 +1,28 @@
+# RadonFixers
+
+> RadonFixers (https://radonfixers.com) is a referral and information service that connects homeowners with independent, state-licensed radon mitigation contractors. RadonFixers does not perform radon testing or mitigation installs and does not employ contractors. Contractor listings are copied from official state licensing records (Pennsylvania DEP, Minnesota Department of Health, Illinois Emergency Management Agency), and health and cost information cites EPA, state health departments and named cost surveys. It is a project of Robert Companies LLC, Austin, TX.
+
+## Key pages
+- [Find licensed contractors by state](https://radonfixers.com/radon-mitigation/)
+- [Pennsylvania licensed radon mitigation contractors](https://radonfixers.com/radon-mitigation/pennsylvania/)
+- [Minnesota licensed radon mitigation contractors](https://radonfixers.com/radon-mitigation/minnesota/)
+- [Illinois licensed radon mitigation contractors](https://radonfixers.com/radon-mitigation/illinois/)
+- [Radon mitigation cost](https://radonfixers.com/radon-mitigation-cost/)
+- [Test my radon](https://radonfixers.com/test-my-radon/)
+- [What Is Radon?](https://radonfixers.com/what-is-radon/)
+- [Is Radon Dangerous?](https://radonfixers.com/is-radon-dangerous/)
+- [Radon Levels by State (PA, MN, IL)](https://radonfixers.com/radon-levels-by-state/)
+- [How Does Radon Mitigation Work?](https://radonfixers.com/how-does-radon-mitigation-work/)
+- [How Long Does Radon Mitigation Take?](https://radonfixers.com/how-long-does-mitigation-take/)
+- [Does Radon Mitigation Work?](https://radonfixers.com/does-radon-mitigation-work/)
+- [How we verify licenses](https://radonfixers.com/how-we-verify/)
+- [About](https://radonfixers.com/about/)
+- [Contact](https://radonfixers.com/contact/)
+
+## Source authorities
+- Pennsylvania DEP Bureau of Radiation Protection: https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebMitigationAlpha.pdf
+- Minnesota Department of Health Indoor Air Unit: https://radon.web.health.state.mn.us/serviceProviders.faces
+- Illinois Emergency Management Agency (IEMA-OHS): https://public.iema.state.il.us/Radon/Home/LicenseIndex
+- US EPA, A Citizen's Guide to Radon: https://www.epa.gov/sites/default/files/2016-12/documents/2016_a_citizens_guide_to_radon.pdf
+- US EPA, Action level for radon: https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean
+- US EPA, Map of Radon Zones: https://www.epa.gov/radon/epa-map-radon-zones-0
